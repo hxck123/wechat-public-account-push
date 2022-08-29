@@ -4,11 +4,11 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "",
+    APP_ID: "wx8802362f999f02d1",
     // 公众号APP_SECRET
-    APP_SECRET: "",
+    APP_SECRET: "c71aacddc6d23b0e7bcff2eece751ac9",
     // 模板消息id
-    TEMPLATE_ID: "",
+    TEMPLATE_ID: "TX49ZJBY-fTrCW2SKG-asOKiHAGI13kqWHT9L4Jszi8",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
     USERS: [""],
      
@@ -43,7 +43,7 @@ export const config = {
 
     // 好文节选的内容类型
     // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-    LITERARY_PREFERENCE: ""
+    LITERARY_PREFERENCE: "漫画"
 
 
     }
